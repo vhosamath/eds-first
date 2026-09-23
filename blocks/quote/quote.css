@@ -1,0 +1,14 @@
+.quote blockquote {
+    margin: 0;
+    font-size: var(--heading-font-size-m);
+    font-style: italic;
+    line-height: 1.4;
+}
+
+.quote cite {
+    display: block;
+    margin-top: 16px;
+    font-size: var(--body-font-size-s);
+    font-style: normal;
+    color: var(--dark-color);
+}
